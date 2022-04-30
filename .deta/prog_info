@@ -1,0 +1,1 @@
+{"id":"e32c3e65-9a1c-4812-a88c-b8b3f8aa02df","space":22085,"runtime":"python3.9","name":"programming-list-server","path":"wjlr53","project":"c03jwlg6","account":"144798365827","region":"ap-southeast-1","deps":["fastapi","requests","bs4"],"envs":null,"public":true,"log_level":"debug","cron":""}
